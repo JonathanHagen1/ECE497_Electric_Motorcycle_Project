@@ -31,3 +31,8 @@ Batteries; Cylindrical style Lithium ion(regular) in 18650s (size), prismatic/po
 Want the highest discharge rate; maybe several in parallel for more current
 
 Need to find balance between weight for traction and weight for acceleration - Matlab?
+
+https://www.engineeringtoolbox.com/tractive-effort-d_1783.html - Traction Coefficient. Force of traction = coeff * normal force (effects of gravity). Traction needs to be greater than T*omega
+
+Guide to go off of?
+https://www.instructables.com/id/Build-Your-Own-ELECTRIC-MOTORCYCLE/
