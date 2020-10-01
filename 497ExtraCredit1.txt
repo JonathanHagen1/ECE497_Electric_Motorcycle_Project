@@ -1,5 +1,6 @@
 Look at upgrades: https://www.youtube.com/playlist?list=PLU44AcBX__OznPxj6hsbhzLoa5RT-FVRk
 Determine feasibility, do analysis on his bike and optimize it - run out of energy right at the end of quarter mile + traction = A
+*Or we can analyze/put together one on our own - exclude his bike and find motor, batteries, etc to end at quarter mile
 
 Top Speed 45mph (Advertised 50 mph)
 Range 30 miles
