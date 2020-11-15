@@ -2,6 +2,10 @@ Mass of total original bike: 104 kg.
 Comes with hub motor; http://www.qs-motor.com/product/12inch-new-260-model-1000w-5000w-qs-hub-motor/
 - That motor has a different serial number but it looks idential to the one in the video, has the same specs as the one described, and came up on google when the first half of the serial number was googled.
 Weight of motor = 15 kg
+Comes with 2 battery packs - each 6x13x3. They appear to be 18650s, which are ~45 g each. 
+Found exact battery pack: https://www.alibaba.com/product-detail/Lithium-72v-motorcycle-rechargeable-battery-for_1600078206876.html?mark=google_shopping
+11kg each
+Chasis weight (including PE) = 67 kg
 
 Look at upgrades: https://www.youtube.com/playlist?list=PLU44AcBX__OznPxj6hsbhzLoa5RT-FVRk
 Determine feasibility, do analysis on his bike and optimize it - run out of energy right at the end of quarter mile + traction = A
