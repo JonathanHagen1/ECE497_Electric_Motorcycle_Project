@@ -8,6 +8,16 @@ Found exact battery pack: https://www.alibaba.com/product-detail/Lithium-72v-mot
 Chasis weight (including original PE - negligable weight) = 67 kg
 Mass of new motor: 12 kg
 Mass of new battery pack: ideally 42 kg to maximally utilize the max torque provided by the motor for max acceleration. (Total weight, 121 kg).
+Inja's upgraded battery pack - 
+18650 cells
+20S 12P
+~3300mAh per cell
+~40 Ah total
+84V - 60V
+dimensions for pack
+LxWxH
+12.36"x9.56"x2.56"
+
 
 Look at upgrades: https://www.youtube.com/playlist?list=PLU44AcBX__OznPxj6hsbhzLoa5RT-FVRk
 Determine feasibility, do analysis on his bike and optimize it - run out of energy right at the end of quarter mile + traction = A
