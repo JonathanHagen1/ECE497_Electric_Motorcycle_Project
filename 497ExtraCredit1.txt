@@ -8,6 +8,8 @@ Found exact battery pack: https://www.alibaba.com/product-detail/Lithium-72v-mot
 Chasis weight (including original PE - negligable weight) = 67 kg
 Mass of new motor: 12 kg
 Mass of new battery pack: ideally 42 kg to maximally utilize the max torque provided by the motor for max acceleration. (Total weight, 121 kg).
+Battery pack is actually 35.5 kg. (Total weight, 114.5 kg)
+Rider mass 60 kg (avg globally - Not just in N.A.), total mass of bike + rider = 174.5 kg
 Inja's upgraded battery pack - 
 18650 cells
 20S 12P
