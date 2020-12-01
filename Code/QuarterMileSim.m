@@ -63,3 +63,5 @@ vel = vel(1:pos);
 T = T(1:pos);
 wr = vel/rw*60/2/pi; %Calculate angular velocity for the power
 power = T.*wr;
+
+NetEnergy = sum(trapz(time,power))*.01;
